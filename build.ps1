@@ -1,3 +1,4 @@
+#TEST1
 [CmdletBinding()]
 Param(
 	[Parameter(Mandatory=$True, Position=1)] [string] $BuildConfiguration,
